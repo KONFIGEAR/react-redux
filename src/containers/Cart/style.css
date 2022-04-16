@@ -1,0 +1,9 @@
+.cart-wraper {
+  width: 30vw;
+  height: 78vh;
+  padding: 1rem;
+  border: 1px solid #eee;
+  padding: 15px 15px 20px;
+  display: grid;
+  row-gap: 8px;
+}

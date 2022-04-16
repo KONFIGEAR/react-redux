@@ -1,0 +1,13 @@
+.App {
+  font-family: poppins;
+  text-align: center;
+  font-size: 0.8rem;
+}
+
+.header {
+  height: 14vh;
+}
+
+.containers {
+  display: flex;
+}

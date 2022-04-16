@@ -1,0 +1,9 @@
+.product-viewer-wraper {
+  width: 30vw;
+  height: 78vh;
+  background-color: #fff;
+  padding: 15px 15px 20px;
+  border: 1px solid #eee;
+
+  row-gap: 8px;
+}
